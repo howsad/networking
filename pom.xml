@@ -14,7 +14,8 @@
         <module>common-interfaces</module>
         <module>impls</module>
         <module>client</module>
-        <module>serialization</module>
+        <module>clientserialization</module>
+        <module>serverserialization</module>
     </modules>
 
     <build>

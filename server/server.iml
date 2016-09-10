@@ -11,6 +11,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="impls" />
     <orderEntry type="module" module-name="common-interfaces" />
-    <orderEntry type="module" module-name="serialization" />
+    <orderEntry type="module" module-name="serverserialization" />
   </component>
 </module>
